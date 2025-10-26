@@ -1,0 +1,940 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_app_ads":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Cute Stitch Wallpaper",
+      "wallpaper_url": "link_gambar_category"
+    },
+	{
+      "name_category": "Blue Koala",
+      "wallpaper_url": "link_gambar_category"
+    },
+	{
+      "name_category": "Stitch Background",
+      "wallpaper_url": "link_gambar_category"
+    },
+	{
+      "name_category": "Awesome Stitch",
+      "wallpaper_url": "link_gambar_category"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": 1,
+      "name_category": "Cute Stitch Wallpaper",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/aa/cd/76/aacd76b37415edd2c87e27bbf19f6803.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Blue Koala",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers.com/images/hd/cute-aesthetic-stitch-with-lilo-5lszc1dulfhz80yz.jpg"
+    },
+	{
+      "id": 3,
+      "name_category": "Stitch Background",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/05/stitch-lilo-and-stitch-cartoon-cute-wallpaper-preview.jpg"
+    },
+    {
+      "id": 4,
+      "name_category": "Awesome Stitch",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/05/stitch-peeking-wall-cute-cartoon-style-wallpaper-preview.jpg"
+    },
+	{
+      "id": 5,
+      "name_category": "Cute Stitch Wallpaper",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/10/stitch-trick-or-treat-halloween-pumpkin-wallpaper-preview.jpg"
+    },
+    {
+      "id": 6,
+      "name_category": "Blue Koala",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/05/stitch-cute-blue-alien-smile-cartoon-wallpaper-preview.jpg"
+    },
+	{
+      "id": 7,
+      "name_category": "Stitch Background",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/01/stitch-island-tap-to-switch-wallpaper-preview.jpg"
+    },
+    {
+      "id": 8,
+      "name_category": "Awesome Stitch",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/09/stitch-autumn-leaves-cute-fall-wallpaper-preview.jpg"
+    },
+	{
+      "id": 9,
+      "name_category": "Cute Stitch Wallpaper",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/05/disney-stitch-kawaii-smile-wallpaper-preview.jpg"
+    },
+    {
+      "id": 10,
+      "name_category": "Blue Koala",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/01/stitch-playful-vibes-tap-to-switch-wallpaper-2-preview.jpg"
+    },
+	{
+      "id": 11,
+      "name_category": "Stitch Background",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/01/stitch-playful-vibes-tap-to-switch-wallpaper-preview.jpg"
+    },
+    {
+      "id": 12,
+      "name_category": "Awesome Stitch",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/06/stitch-in-space-cute-outer-galaxy-wallpaper-preview.jpg"
+    },
+	{
+      "id": 13,
+      "name_category": "Cute Stitch Wallpaper",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 13",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/09/stitch-under-autumn-leaves-cozy-phone-wallpaper-preview.jpg"
+    },
+    {
+      "id": 14,
+      "name_category": "Blue Koala",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 14",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/05/stitch-glowing-blue-light-ohana-vibe-wallpaper-preview.jpg"
+    },
+	{
+      "id": 15,
+      "name_category": "Stitch Background",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 15",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/06/kawaii-stitch-illustration-wallpaper-scaled.jpg"
+    },
+    {
+      "id": 16,
+      "name_category": "Awesome Stitch",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 16",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/05/stitch-cute-smile-cartoon-wallpaper-preview.jpg"
+    },
+	{
+      "id": 17,
+      "name_category": "Cute Stitch Wallpaper",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 17",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/12/lilo-and-stitch-sad-stitch-in-the-rain-wallpaper-scaled.jpg"
+    },
+    {
+      "id": 18,
+      "name_category": "Blue Koala",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 18",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/05/ohana-forever-stitch-glowing-blue-cute-wallpaper-preview.jpg"
+    },
+	{
+      "id": 19,
+      "name_category": "Stitch Background",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 19",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/08/stitch-pop-out-cartoon-wallpaper-scaled.jpg"
+    },
+    {
+      "id": 20,
+      "name_category": "Awesome Stitch",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 20",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/05/stro-stitch-floating-space-cute-wallpaper-preview.jpg"
+    },
+	{
+      "id": 21,
+      "name_category": "Cute Stitch Wallpaper",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 21",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/06/stitch-astronaut-space-cute-cosmic-wallpaper-preview.jpg"
+    },
+    {
+      "id": 22,
+      "name_category": "Blue Koala",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 22",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2023/12/lilo-and-stitch-stitch-standing-on-his-head-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 23,
+      "name_category": "Stitch Background",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 23",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers.com/images/high/lilo-and-stitch-iphone-sunset-iy9hi5c0b6b95kdz.webp"
+    },
+    {
+      "id": 24,
+      "name_category": "Awesome Stitch",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 24",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://www.xtrafondos.com/wallpapers/vertical/stitch-12413.jpg"
+    },
+	{
+      "id": 25,
+      "name_category": "Cute Stitch Wallpaper",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 25",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i0.wp.com/ideawallpapers.com/wp-content/uploads/2023/08/stitch-wallpaper-1.jpg?fit=600%2C1080&ssl=1"
+    },
+    {
+      "id": 26,
+      "name_category": "Blue Koala",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 26",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2024/08/cute-stitch-peeking-wallpaper.jpg"
+    },
+	{
+      "id": 27,
+      "name_category": "Stitch Background",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 27",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapersok.com/images/hd/cute-stitch-we-love-iphone-2b6x1ptbs7h4ccys.jpg"
+    },
+    {
+      "id": 28,
+      "name_category": "Awesome Stitch",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 28",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/1d/60/cb/1d60cbc33657eb0f03789624804e9909.jpg"
+    },
+	{
+      "id": 29,
+      "name_category": "Cute Stitch Wallpaper",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 29",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn1.parksmedia.wdprapps.disney.com/media/blog/wp-content/uploads/2023/06/23_Aloha_From_Stitch_1080x1920.jpg"
+    },
+    {
+      "id": 30,
+      "name_category": "Blue Koala",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 30",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/d6/c7/dd/d6c7dd2ab3e0b147460d7bd0f8daa90e.jpg"
+    },
+	{
+      "id": 31,
+      "name_category": "Stitch Background",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 31",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/79/6a/b6/796ab604fe8136c836567b185d9371af.jpg"
+    },
+    {
+      "id": 32,
+      "name_category": "Awesome Stitch",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 32",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/1c/61/5d/1c615d3bbfc268d97c52f2f003a67a20.jpg"
+    },
+	{
+      "id": 33,
+      "name_category": "Cute Stitch Wallpaper",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 33",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/09/78/e7/0978e7f9cfc59e3b9636bb22a8f64f25.jpg"
+    },
+    {
+      "id": 34,
+      "name_category": "Blue Koala",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 34",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://www.pixelstalk.net/wp-content/uploads/image10/Stitch-from-the-Disney-animated-film-Lilo-Stitch-cartoon-character-disney-classic-animated.jpg"
+    },
+	{
+      "id": 35,
+      "name_category": "Stitch Background",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 35",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://www.pixelstalk.net/wp-content/uploads/image10/Stitch-from-Lilo-Stitch-classic-Disney-cartoon-style-with-simple-lines.jpg"
+    },
+    {
+      "id": 36,
+      "name_category": "Awesome Stitch",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 36",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercave.com/wp/wp11525076.jpg"
+    },
+	{
+      "id": 37,
+      "name_category": "Cute Stitch Wallpaper",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 37",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercave.com/wp/wp12863551.jpg"
+    },
+    {
+      "id": 38,
+      "name_category": "Blue Koala",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 38",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercave.com/wp/wp12863516.jpg"
+    },
+	{
+      "id": 39,
+      "name_category": "Stitch Background",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 39",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://e0.pxfuel.com/wallpapers/256/765/desktop-wallpaper-cute-stitch-collage-novocom-top-cute-aesthetic-stitch.jpg"
+    },
+    {
+      "id": 40,
+      "name_category": "Awesome Stitch",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 40",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/1200x/8a/24/9f/8a249fb6e1a2643e85bfb3ccfedfdb77.jpg"
+    },
+	{
+      "id": 41,
+      "name_category": "Cute Stitch Wallpaper",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 41",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://m.media-amazon.com/images/I/71gad1UKKdL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 42,
+      "name_category": "Blue Koala",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 42",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://www.xtrafondos.com/wallpapers/vertical/stitch-en-la-playa-12447.jpg"
+    },
+	{
+      "id": 43,
+      "name_category": "Stitch Background",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 43",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://www.xtrafondos.com/wallpapers/vertical/stitch-en-la-playa-13246.jpg"
+    },
+    {
+      "id": 44,
+      "name_category": "Awesome Stitch",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 44",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://www.xtrafondos.com/wallpapers/vertical/lilo-y-stitch-2886.jpg"
+    },
+	{
+      "id": 45,
+      "name_category": "Cute Stitch Wallpaper",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 45",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://www.xtrafondos.com/wallpapers/vertical/stitch-paisaje-estilo-retrowave-13235.jpg"
+    },
+    {
+      "id": 46,
+      "name_category": "Blue Koala",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 46",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://www.xtrafondos.com/wallpapers/vertical/stitch-pintando-arte-sobre-lienzos-13236.jpg"
+    },
+	{
+      "id": 47,
+      "name_category": "Stitch Background",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 47",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://www.xtrafondos.com/wallpapers/vertical/stitch-12446.jpg"
+    },
+    {
+      "id": 48,
+      "name_category": "Awesome Stitch",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 48",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://www.xtrafondos.com/wallpapers/vertical/stitch-12457.jpg"
+    },
+	{
+      "id": 49,
+      "name_category": "Cute Stitch Wallpaper",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 49",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://www.xtrafondos.com/wallpapers/vertical/stitch-como-mago-13242.jpg"
+    },
+    {
+      "id": 50,
+      "name_category": "Blue Koala",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 50",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://www.xtrafondos.com/wallpapers/vertical/stitch-en-las-nubes-13240.jpg"
+    },
+	{
+      "id": 51,
+      "name_category": "Stitch Background",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 51",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://www.xtrafondos.com/wallpapers/vertical/stitch-ilustracion-12445.jpg"
+    },
+    {
+      "id": 52,
+      "name_category": "Awesome Stitch",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 52",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://www.xtrafondos.com/wallpapers/vertical/stitch-and-angel-12805.jpg"
+    },
+	{
+      "id": 53,
+      "name_category": "Cute Stitch Wallpaper",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 53",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://www.xtrafondos.com/wallpapers/vertical/stitch-ohana-significa-familia-13209.jpg"
+    },
+    {
+      "id": 54,
+      "name_category": "Blue Koala",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 54",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://www.xtrafondos.com/wallpapers/vertical/stitch-y-angel-13243.jpg"
+    },
+	{
+      "id": 55,
+      "name_category": "Stitch Background",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 55",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://www.xtrafondos.com/wallpapers/vertical/stitch-manejando-auto-13237.jpg"
+    },
+    {
+      "id": 56,
+      "name_category": "Awesome Stitch",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 56",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers.com/images/hd/lovely-couple-angel-and-stitch-phone-7s2ho70a7l6k3hhx.jpg"
+    },
+	{
+      "id": 57,
+      "name_category": "Cute Stitch Wallpaper",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 57",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/43/02/de/4302de63834ed71dcc1c9be5a2c0a5b1.jpg"
+    },
+    {
+      "id": 58,
+      "name_category": "Blue Koala",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 58",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers.com/images/hd/adorable-3d-render-of-character-stitch-from-disney-s-lilo-and-stitch-1xrb9uqf8nnyi1t9.jpg"
+    },
+	{
+      "id": 59,
+      "name_category": "Stitch Background",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 59",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvybNixGL-Di-EphteNyL297zEdxpdZ7O_Vy97SMG1IVqLZEVMwVsJAFJEhoWr4CAR1VRP3dqqNrM8dI5nDBYp_VPDTA0gg20_B2BnZepKpliaT8CvINfV96bW-2XlUa0zD1cLLb0-t3zrDzExG7e45kTAIfJY66A9xi76SA7NStJz_oBh_VEdvw/s1062/lilo&stitch_cov_01_small.jpg"
+    },
+    {
+      "id": 60,
+      "name_category": "Awesome Stitch",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 60",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/1e/9d/03/1e9d034e4564b58e89fd370a2325581b.jpg"
+    },
+	{
+      "id": 61,
+      "name_category": "Cute Stitch Wallpaper",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 61",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers.com/images/hd/stitch-has-a-glitch-movie-w3gyow5oqfelkunh.jpg"
+    },
+    {
+      "id": 62,
+      "name_category": "Blue Koala",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 62",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/6d/96/ef/6d96ef3a5c30ec7e9bb7c2daf972983b.jpg"
+    },
+	{
+      "id": 63,
+      "name_category": "Stitch Background",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 63",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/1200x/32/b6/1c/32b61c45f0906fe47f9ea7c316bdca43.jpg"
+    },
+    {
+      "id": 64,
+      "name_category": "Awesome Stitch",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 64",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2022/09/stitch-drawing-blue-wallpaper-scaled.jpg"
+    },
+	{
+      "id": 65,
+      "name_category": "Cute Stitch Wallpaper",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 65",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/90/c4/f5/90c4f514feaa2958df699981e9ef4c5e.jpg"
+    },
+    {
+      "id": 66,
+      "name_category": "Blue Koala",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 66",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://www.xtrafondos.com/wallpapers/vertical/lilo-y-stitch-bailando-2891.jpg"
+    },
+	{
+      "id": 67,
+      "name_category": "Stitch Background",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 67",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://www.itakeyou.co.uk/wp-content/uploads/2023/09/stitch-wallpaper-232-6.jpg"
+    },
+    {
+      "id": 68,
+      "name_category": "Awesome Stitch",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 68",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://www.itakeyou.co.uk/wp-content/uploads/2023/09/stitch-wallpaper-232-4.jpg"
+    },
+	{
+      "id": 69,
+      "name_category": "Cute Stitch Wallpaper",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 69",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/1200x/98/77/cf/9877cf5a7fad081d90fae25a0884449a.jpg"
+    },
+    {
+      "id": 70,
+      "name_category": "Blue Koala",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 70",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/1c/d7/ce/1cd7ce44934290e9d4c2da4c88a27ff5.jpg"
+    },
+	{
+      "id": 71,
+      "name_category": "Stitch Background",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 71",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/6d/c7/e0/6dc7e03d1d90456eb382495d1a7fdf85.jpg"
+    },
+    {
+      "id": 72,
+      "name_category": "Awesome Stitch",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 72",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers.com/images/hd/stitch-galaxy-qtaoz2x87xlmllyp.jpg"
+    },
+	{
+      "id": 73,
+      "name_category": "Cute Stitch Wallpaper",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 73",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpaperbat.com/img/131346-stitch-disney-wallpaper-for-mobile-android-cartoon-wallpaper-hd.jpg"
+    },
+    {
+      "id": 74,
+      "name_category": "Blue Koala",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 74",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/f5/15/27/f51527b496a591848d107b5d6f99fa47.jpg"
+    },
+	{
+      "id": 75,
+      "name_category": "Stitch Background",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 75",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/4c/e3/d3/4ce3d3833c452a8ab3e55027c876167f.jpg"
+    },
+    {
+      "id": 76,
+      "name_category": "Awesome Stitch",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 76",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/7c/8f/eb/7c8feb913c62a0b436d0bbcc03b8b9cd.jpg"
+    },
+	{
+      "id": 77,
+      "name_category": "Cute Stitch Wallpaper",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 77",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/c9/82/3a/c9823ace37bcdcdca7cfc803a515c5fc.jpg"
+    },
+    {
+      "id": 78,
+      "name_category": "Blue Koala",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 78",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://is.zobj.net/image-server/v1/images?r=0qFPMEU3c57AwpEwOTtgs0U5NosFhWbUwyLFj2JOlhDEtdo6lD5sRdQl98Pf3WlyG2fh4c-ZJK9SbolrP6w32zb2EzWYIEonLNucPtNR0s52hZtYiFFbVxMo1zAsVWyh2RSx6cB7PBZOjCCVH2YC9qa3phCKytW5rzj6Ot8MDTh4vnpb5PN6x53ZOtwjwB51mKX8IxyulslMu2n0klns3GtwOLqdftthoGhjEdtpZnaWfdsq1zNJmSMbul8"
+    },
+	{
+      "id": 79,
+      "name_category": "Stitch Background",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 79",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.kibrispdr.org/data/27/cartoon-live-wallpaper-4.jpg"
+    },
+    {
+      "id": 80,
+      "name_category": "Awesome Stitch",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 80",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://is.zobj.net/image-server/v1/images?r=YgLKomrPC3xewSh7LC0pkTxaNizQuc5Bnktx-TIA6YuYvtxi82Pdx6LcryrK3Q4SPvNIfZRN6fO31keTRhur0FboGMT9k1bgEdNOGirzRSDsdayBKDHEKEId9hr7tqLx4Q-Jg34FmFLZAY-IbchlXxYXo4AqYdmHDLl8E08kSJi3iAQwr4GJie5c2b0VVSjF6PHav75RqL7RkXfymvBuSnr-2i8HqRf3t54_GA"
+    },
+	{
+      "id": 81,
+      "name_category": "Cute Stitch Wallpaper",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 81",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://is.zobj.net/image-server/v1/images?r=JjXHUywh5dSAXqg0KBT2tgMEW7MpkgKaKL0T-43gf_70yn9q6txrhf4tlftiKe3ne46WLzVakVR5Z0OLE8xfj7cnvNsHQSg4tkbBG21aegf3y64dMpO9CmM2x2QhSkpetd_2xrmBL49VhEfSC3Is0NeF4l62DtkFMVGHQvEkYtNKgglzKfLcvddYrQD6kMx2RX5cOiuWG8Z6P7UbSUCStmZxV25X-lTt-r0lY68qQHIcZyukjT0CL5Jx74U"
+    },
+    {
+      "id": 82,
+      "name_category": "Blue Koala",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 82",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://is.zobj.net/image-server/v1/images?r=tVpoKuf29_bmPNukpHSF3w7CBt_C3JyljONXYk0IoiHLVZ85WJebn8FegmPbjIugTX-UueaVymREWCny73fBRmvjj3W4vhev-O_vvtOS3SxUQi4d2dvfYAIeKVex_w0hkp85EgMvZQ-H6UtANdSN2iWg-WRBV6RVxssLC1hzi7pF3cay8c4PhvLOIoP1RYvoG5eAWBOGq_vwPGCdJDJ5FiXRwJuj0kIoQsXmGijJGBg2Ochamj3yPrW-k0E"
+    },
+	{
+      "id": 83,
+      "name_category": "Stitch Background",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 83",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://is.zobj.net/image-server/v1/images?r=qrq-JFBesUOKTOVoe3aBywKVRTmy9Im8SofZWaiVUoMTyQ1m3lwdysHSfSZr2585Mp1s3Jy9iKi8hrKXVm2Qp6ImmlBRdEwYpYyVwhFDIMK5LIXw4TOrBF4Ytzcj7dchY-XAYw7BqFp81KjzkOSDd7UEHTl99Ompo1PjLq5IwiCBxYp-Bh8_JPflzLHj3Y9hCvgEXHYlkWunnEARb0T6qM_GK6QHA1TiV_kR8owosw0D2EhPVwWX87dJgdw"
+    },
+    {
+      "id": 84,
+      "name_category": "Awesome Stitch",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 84",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercave.com/wp/wp10138683.jpg"
+    },
+	{
+      "id": 85,
+      "name_category": "Cute Stitch Wallpaper",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 85",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/e4/2a/72/e42a72e6584abb209f42640543e4317e.jpg"
+    },
+    {
+      "id": 86,
+      "name_category": "Blue Koala",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 86",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercat.com/w/full/2/6/a/1084514-1080x1920-phone-1080p-stitch-wallpaper.jpg"
+    },
+	{
+      "id": 87,
+      "name_category": "Stitch Background",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 87",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://mrwallpaper.com/images/hd/kawaii-stitch-looking-up-uyo4gxgfyirxiqxc.jpg"
+    },
+    {
+      "id": 88,
+      "name_category": "Awesome Stitch",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 88",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/19/84/c2/1984c2a41c99bc4011b87129e7f1d08d.jpg"
+    },
+	{
+      "id": 89,
+      "name_category": "Cute Stitch Wallpaper",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 89",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://e0.pxfuel.com/wallpapers/648/776/desktop-wallpaper-stitch-fondosdepantalla-ohana-blue-stitch-halloween.jpg"
+    },
+    {
+      "id": 90,
+      "name_category": "Blue Koala",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 90",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://e0.pxfuel.com/wallpapers/290/822/desktop-wallpaper-stitch-iphone-simple-disney.jpg"
+    },
+	{
+      "id": 91,
+      "name_category": "Stitch Background",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 91",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://e0.pxfuel.com/wallpapers/537/368/desktop-wallpaper-kawaii-stitch-cute-kawaii-stitch.jpg"
+    },
+    {
+      "id": 92,
+      "name_category": "Awesome Stitch",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 92",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/9c/72/7b/9c727bc5794fcf907626301ca7b3a8e4.jpg"
+    },
+	{
+      "id": 93,
+      "name_category": "Cute Stitch Wallpaper",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 93",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/b0/9e/7d/b09e7d52303608e366a2558d020e3a9a.jpg"
+    },
+    {
+      "id": 94,
+      "name_category": "Blue Koala",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 94",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/89/f4/0c/89f40c0af9789ce440e85392348f16e4.jpg"
+    },
+	{
+      "id": 95,
+      "name_category": "Stitch Background",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 95",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/4f/ab/f4/4fabf48f7efdef889d2d1a4983f562da.jpg"
+    },
+    {
+      "id": 96,
+      "name_category": "Awesome Stitch",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 96",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/3b/c8/a8/3bc8a8239475f777cc351e7edeb38117.jpg"
+    },
+	{
+      "id": 97,
+      "name_category": "Cute Stitch Wallpaper",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 97",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/4a/60/ff/4a60ffc687e60685c4effe8af8bdd880.jpg"
+    },
+    {
+      "id": 98,
+      "name_category": "Blue Koala",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 98",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2025/01/vKWaInu8-fond-decran-stitch-50.webp"
+    },
+	{
+      "id": 99,
+      "name_category": "Stitch Background",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 99",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2025/01/0NZ5B435-fond-decran-stitch38.webp"
+    },
+    {
+      "id": 100,
+      "name_category": "Awesome Stitch",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 100",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2025/01/Jv8vQQln-fond-decran-stitch-49.webp"
+    },
+	{
+      "id": 101,
+      "name_category": "Cute Stitch Wallpaper",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 101",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2025/01/KhM4PeWD-fond-decran-stitch-25.webp"
+    },
+    {
+      "id": 102,
+      "name_category": "Blue Koala",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 102",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2025/01/yOFdiyRG-fond-decran-stitch-37.webp"
+    },
+	{
+      "id": 103,
+      "name_category": "Stitch Background",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 103",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2025/01/Yq27vfaV-fond-decran-stitch-24.webp"
+    },
+    {
+      "id": 104,
+      "name_category": "Awesome Stitch",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 104",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2025/01/Mh9F5rfa-fond-decran-stitch-48.webp"
+    },
+	{
+      "id": 105,
+      "name_category": "Cute Stitch Wallpaper",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 105",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2025/01/fki8R378-fond-decran-stitch-36.webp"
+    },
+    {
+      "id": 106,
+      "name_category": "Blue Koala",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 106",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2025/01/uPAdv4E2-fond-decran-stitch-23.webp"
+    },
+	{
+      "id": 107,
+      "name_category": "Stitch Background",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 107",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2025/01/yX7OFQab-fond-decran-stitch-47.webp"
+    },
+    {
+      "id": 108,
+      "name_category": "Awesome Stitch",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 108",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2025/01/fLEPYVJO-fond-decran-stitch-22.webp"
+    },
+	{
+      "id": 109,
+      "name_category": "Cute Stitch Wallpaper",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 109",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2025/01/Eyi7KDlM-fond-decran-stitch-46.webp"
+    },
+    {
+      "id": 110,
+      "name_category": "Blue Koala",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 110",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2025/01/joPLzFpB-fond-decran-stitch-21.webp"
+    },
+	{
+      "id": 111,
+      "name_category": "Stitch Background",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 111",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2025/01/eKKYTGHf-fond-decran-stitch-45.webp"
+    },
+    {
+      "id": 112,
+      "name_category": "Awesome Stitch",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 112",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2025/01/MmEkpnlO-fond-decran-stitch-18.webp"
+    },
+	{
+      "id": 113,
+      "name_category": "Cute Stitch Wallpaper",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 113",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2025/01/tbIiKqYA-fond-decran-stitch-44.webp"
+    },
+    {
+      "id": 114,
+      "name_category": "Blue Koala",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 114",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2025/01/uh7gHVbv-fond-decran-stitch-32.webp"
+    },
+	{
+      "id": 115,
+      "name_category": "Stitch Background",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 115",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2025/01/gvF5w7qQ-fond-decran-stitch-17.webp"
+    },
+    {
+      "id": 116,
+      "name_category": "Awesome Stitch",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 116",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2025/01/onfL2fWi-fond-decran-stitch-43.webp"
+    },
+	{
+      "id": 117,
+      "name_category": "Cute Stitch Wallpaper",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 117",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2025/01/2E6YJkXb-fond-decran-stitch-31.webp"
+    },
+    {
+      "id": 118,
+      "name_category": "Blue Koala",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 118",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2025/01/7HliQe1z-fond-decran-stitch-16.webp"
+    },
+	{
+      "id": 119,
+      "name_category": "Stitch Background",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 119",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2025/01/0ZD9tZ6I-fond-decran-stitch-30.webp"
+    },
+    {
+      "id": 120,
+      "name_category": "Awesome Stitch",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 120",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2025/01/v3VWPT9M-fond-decran-stitch-15.webp"
+    },
+	{
+      "id": 121,
+      "name_category": "Cute Stitch Wallpaper",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 121",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2025/01/3s1WMU9M-fond-decran-stitch-41.webp"
+    },
+    {
+      "id": 122,
+      "name_category": "Blue Koala",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 122",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2025/01/m4l8Hakg-fond-decran-stitch-29.webp"
+    },
+	{
+      "id": 123,
+      "name_category": "Stitch Background",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 123",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2025/01/hglY6ysG-fond-decran-stitch-14.webp"
+    },
+    {
+      "id": 124,
+      "name_category": "Awesome Stitch",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 124",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2025/01/PTL5mtQC-fond-decran-stitch-40.webp"
+    },
+	{
+      "id": 125,
+      "name_category": "Cute Stitch Wallpaper",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 125",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2025/01/1Z7Prmag-fond-decran-stitch-28.webp"
+    },
+    {
+      "id": 126,
+      "name_category": "Blue Koala",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 126",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2025/01/jh6fkp5s-fond-decran-stitch-13.webp"
+    },
+	{
+      "id": 127,
+      "name_category": "Stitch Background",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 127",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2025/01/dPU7iIUg-fond-decran-stitch-26.webp"
+    },
+    {
+      "id": 128,
+      "name_category": "Awesome Stitch",
+      "wallpaper_name": "Cute Stitch Wallpaper Lilo 128",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://cdn.fondecranvip.com/2025/01/RQtlSURE-fond-decran-stitch-12.webp"
+    }
+  ]
+}
